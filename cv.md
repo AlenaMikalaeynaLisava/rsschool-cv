@@ -19,3 +19,10 @@ I don't have any experience in IT yet, but I'm willing to rise my knowlige ang g
 
 ## Code examples
 All the examples of my code it's possible to find here: https://github.com/AlenaMikalaeynaLisava
+
+## Work experience
+There is no IT work experience yet
+
+## Education
+* 2012 BNTU, Engineer
+* 2016 HTMLAcademy free course
