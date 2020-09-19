@@ -26,3 +26,6 @@ There is no IT work experience yet
 ## Education
 * 2012 BNTU, Engineer
 * 2016 HTMLAcademy free course
+
+## Level of English
+According to the test you suggest us to check the English level, my English is somewhere between B1 INTERMEDIATE and B2 UPPER INTERMEDIATE.
