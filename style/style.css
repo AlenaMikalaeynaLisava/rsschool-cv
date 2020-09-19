@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0;
+  background-color: #111111;
+  color: #ffffff;
+}
+.logo img {
+  height: 120px;
+}
+main {
+  margin: 0;
+  padding: 10px;
+  background-color: #ff9b51;
+}
+footer {
+  margin: 0;
+  background-color: #111111;
+  color: #ffffff;
+  text-align: center;
+}
+.subList li {
+  list-style-type: "\204e";
+}
