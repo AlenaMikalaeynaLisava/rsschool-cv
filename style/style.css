@@ -1,0 +1,54 @@
+@keyframes curruculum-rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+body {
+  padding: 0;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  min-height: 95vh;
+  min-width: 354px;
+  background-color: #111111;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px 0;
+  color: #ffffff;
+}
+main {
+  display: flex;
+  margin: 0;
+  padding: 10px;
+  background-color: #ff9b51;
+}
+footer {
+  margin: 0;
+  color: #ffffff;
+  text-align: center;
+}
+.subList li {
+  list-style-type: "\204e";
+}
+@media only screen and (min-width: 1660px) {
+  h1 {
+    animation: curruculum-rotation 15s infinite;
+  }
+}
+@media only screen and (max-width: 768px) {
+  main {
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 514px) {
+  header {
+    flex-direction: column-reverse;
+  }
+}
+
